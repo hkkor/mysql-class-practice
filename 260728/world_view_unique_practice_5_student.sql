@@ -99,3 +99,4 @@ USE world;
 --
 -- 주의:
 -- 중복 오류 확인용 INSERT 문은 주석 처리하여 작성하세요.
+-- https://docs.google.com/document/d/1oO2SgVfFHnHQ8aTAPT4_C3vlpxXGco__Tt5N_ie9bJ8/edit?usp=sharing
